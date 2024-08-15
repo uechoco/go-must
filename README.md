@@ -1,3 +1,6 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/uechoco/go-must.svg)](https://pkg.go.dev/github.com/uechoco/go-must)
+[![Go Report Card](https://goreportcard.com/badge/github.com/uechoco/go-must)](https://goreportcard.com/report/github.com/uechoco/go-must)
+
 # go-must
 general utilities for "Must" pattern. It simplifies safe initialization, handling errors in test, and so on.
 
